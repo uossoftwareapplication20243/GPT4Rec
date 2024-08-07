@@ -388,7 +388,7 @@ If you find this work is helpful to your research, please consider citing our pa
 @inproceedings{zhu2024collaborative,
   title={Collaborative large language model for recommender systems},
   author={Zhu, Yaochen and Wu, Liang and Guo, Qi and Hong, Liangjie and Li, Jundong},
-  booktitle={Proceedings of the ACM on Web Conference 2024},
+  booktitle={Proceedings of the ACM Web Conference},
   pages={3162--3172},
   year={2024}
 }
