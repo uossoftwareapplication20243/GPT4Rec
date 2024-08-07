@@ -385,11 +385,12 @@ see scripts/run.sh
 ## 🌟 Citation
 If you find this work is helpful to your research, please consider citing our paper:
 ```
-@article{zhu2023collaborative,
-  title={Collaborative Large Language Model for Recommender Systems},
-  author={Yaochen Zhu and Liang Wu and Qi Guo and Liangjie Hong and Jundong Li},
-  journal={arXiv preprint arXiv:2311.01343},
-  year={2023}
+@inproceedings{zhu2024collaborative,
+  title={Collaborative large language model for recommender systems},
+  author={Zhu, Yaochen and Wu, Liang and Guo, Qi and Hong, Liangjie and Li, Jundong},
+  booktitle={Proceedings of the ACM on Web Conference 2024},
+  pages={3162--3172},
+  year={2024}
 }
 ```
 **Thanks for your interest in our work!**
