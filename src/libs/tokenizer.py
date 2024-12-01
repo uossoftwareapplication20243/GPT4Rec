@@ -1,6 +1,6 @@
 '''
-MIT License
-Copyright (c) 2024 Yaochen Zhu
+Tokenizer
+필요하신지 모르겠어서 일단 남겨둬요
 '''
 
 import re
