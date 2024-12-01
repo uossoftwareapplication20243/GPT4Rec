@@ -1,4 +1,4 @@
-### * 2.1.2. 부분을 참고하여 GPT4Rec 모델을 활용하면 될 것 같습니다!!
+### * 2.1.2. 부분을 참고하여 model.py의 GPT4Rec 모델을 활용하면 될 것 같습니다!!
 
 # CLLM4Rec: Collaborative LLM for Recommender Systems
 
